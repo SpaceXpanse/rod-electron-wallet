@@ -3,7 +3,7 @@
 
 # Introduction
 
-The XAYA wallet uses Angular and Electron to build the wallet.
+The SpaceXpanse wallet uses Angular and Electron to build the wallet.
 
 
 ## Getting Started
@@ -11,7 +11,7 @@ The XAYA wallet uses Angular and Electron to build the wallet.
 Clone this repository locally:
 
 ``` bash
-git clone https://github.com/xaya/xaya_electron.git
+git clone https://github.com/SpaceXpanse/rod-electron-wallet.git
 ```
 
 Install dependencies with npm :
